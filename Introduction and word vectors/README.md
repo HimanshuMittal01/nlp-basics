@@ -1,3 +1,3 @@
-"Genism word vector visualization.ipynb" is file taken from http://web.stanford.edu/class/cs224n/index.html
+All the files are taken from http://web.stanford.edu/class/cs224n/index.html
 
-This is a basic introduction to gensim module
+There is no intent of harming anyone or copying material for commercial use. I just want to improve my understanding of natural language processing and write experimental code.
